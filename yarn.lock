@@ -1859,10 +1859,10 @@
   resolved "https://registry.yarnpkg.com/@rehooks/component-size/-/component-size-1.0.2.tgz#b93d5f39bc9f47a6c0feb39690ae07156bc65863"
   integrity sha512-bjuKCFEIr1eDNvK/ET2SWl/xCKloywupJyfKQqZ6GaEKhnlCI2YV10rv9wTNrbSnzoHraktig9YYC0e69RowLA==
 
-"@rooks/use-boundingclientrect@^3.0.1":
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/@rooks/use-boundingclientrect/-/use-boundingclientrect-3.0.1.tgz#cbe7c708d259a2b58db4d306d6ec9ecf040a6002"
-  integrity sha512-Xy343Z8BFY8GtLC/3bVsDGtvLSmg3iD7uisRhah7Lf/hpyKeaxv2081H9LzS+OQ5AIyBKt3q2RUmdqrW72s0/w==
+"@rooks/use-boundingclientrect@^3.6.0":
+  version "3.6.0"
+  resolved "https://registry.yarnpkg.com/@rooks/use-boundingclientrect/-/use-boundingclientrect-3.6.0.tgz#d19c4f7041a3d593986d1b8ba63f8c1cacdbea5e"
+  integrity sha512-jauAvlQ0rgU6ivPrxr2lWLUmJcwXgmbES/PSfQR3Cl9FmbpquDI2ne7fT0o8BKgrFZFhA68jurl1opbDCsGFBg==
 
 "@sindresorhus/is@^0.7.0":
   version "0.7.0"
