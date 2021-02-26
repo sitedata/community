@@ -12,7 +12,7 @@
     "aws-amplify": "^1.1.26",
     "babel-plugin-ramda": "^2.0.0",
     "cypress": "^3.2.0",
-    "gatsby": "2.3.4",
+    "gatsby": "2.32.8",
     "gatsby-image": "^2.0.37",
     "moment": "^2.24.0",
     "prismjs": "^1.16.0",
